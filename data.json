@@ -1,0 +1,132 @@
+{
+    "data": [
+        {
+            "name": "Ingrid Gusmão",
+            "type": "Jeu de plates-formes",
+            "git_url": "https://github.com/ingridgusmao1/quadradinho",
+            "site_url": "https://ingridgusmao1.github.io/quadradinho/",
+            "gif_path": "assets/medias/ingrid_platesformes.gif",
+            "img_path": "assets/medias/ingrid_platesformes.jpg"
+        },
+        {
+            "name": "François Popieul",
+            "type": "Mémorie",
+            "git_url": "https://github.com/Francois-Popieul/test-your-memory",
+            "site_url": "https://test-your-memory-ten.vercel.app/",
+            "gif_path": "assets/medias/françois_p_memory.gif",
+            "img_path": "assets/medias/françois_p_memory.jpg"
+        },
+        {
+            "name": "Emilie Marion",
+            "type": "Puzzle",
+            "git_url": "https://github.com/ZarminKamarn/brief3_game",
+            "site_url": "https://brief3-game-git-main-emiles-projects-4a18e7a2.vercel.app/",
+            "gif_path": "assets/medias/emilie_puzzle.gif",
+            "img_path": "assets/medias/emilie_puzzle.jpg"
+        },
+        {
+            "name": "Marc Ubertalli",
+            "type": "Boulier",
+            "git_url": "https://github.com/azriel750/game-jam",
+            "site_url": "https://azriel750.github.io/game-jam/",
+            "gif_path": "assets/medias/marc_boulier.gif",
+            "img_path": "assets/medias/marc_boulier.jpg"
+        },
+        {
+            "name": "Dimitri Moureau",
+            "type": "Street fighter",
+            "git_url": "https://github.com/dmt-01/jeu-js-ts",
+            "site_url": "https://jeutsbaki.vercel.app/",
+            "gif_path": "assets/medias/dimitri_street_fighter.gif",
+            "img_path": "assets/medias/dimitri_street_fighter.jpg"
+        },
+        {
+            "name": "Naïm El Habbas",
+            "type": "Super Mario Bros.",
+            "git_url": "https://github.com/nemnem202/Super-Mario-Typescript",
+            "site_url": "https://super-mario-typescript.vercel.app/",
+            "gif_path": "assets/medias/naim_mario.gif",
+            "img_path": "assets/medias/naim_mario.jpg"
+        },
+        {
+            "name": "Laurence Gros",
+            "type": "Mémorie",
+            "git_url": "https://github.com/Laurence-LaurencE/B4_game-jam",
+            "site_url": "https://laurence-laurence.github.io/B4_game-jam/",
+            "gif_path": "assets/medias/laurence_tape_coco.gif",
+            "img_path": "assets/medias/laurence_tape_coco.jpg"
+        },
+        {
+            "name": "François Brias",
+            "type": "Snake",
+            "git_url": "https://github.com/fraxi0n/BRIEF4_Grid_of_the_Snakodancer",
+            "site_url": "https://brief-4-grid-of-the-snakodancer-git-master-fraxions-projects.vercel.app/",
+            "gif_path": "assets/medias/francois_b_snake.gif",
+            "img_path": "assets/medias/francois_b_snake.jpg"
+        },
+        {
+            "name": "Tatiana Dor",
+            "type": "Morpion",
+            "git_url": "https://github.com/Tatiana77-git/brief_3",
+            "site_url": "https://tatiana77-git.github.io/brief_3/",
+            "gif_path": "assets/medias/tatiana_morpion.gif",
+            "img_path": "assets/medias/tatiana_morpion.jpg"
+        },
+        {
+            "name": "Fouzy Chikouche",
+            "type": "Bike simulator",
+            "git_url": "https://github.com/fouzy213/game_motorbike",
+            "site_url": "https://fouzy213.github.io/game_motorbike/",
+            "gif_path": "assets/medias/fouzy_bike_simulator.gif",
+            "img_path": "assets/medias/fouzy_bike_simulator.jpg"
+        },
+        {
+            "name": "Nupur Bhide",
+            "type": "Puzzle",
+            "git_url": "https://github.com/nbhd12/puzzlegame",
+            "site_url": "https://nbhd12.github.io/puzzlegame/game.html",
+            "gif_path": "assets/medias/nupur_puzzle.gif",
+            "img_path": "assets/medias/nupur_puzzle.jpg"
+        },
+        {
+            "name": "Indian Vella",
+            "type": "Tape taupe",
+            "git_url": "https://github.com/indidi01/brief6---game-jam",
+            "site_url": "https://indidi01.github.io/brief6---game-jam/",
+            "gif_path": "assets/medias/indian_tape_taupe.gif",
+            "img_path": "assets/medias/indian_tape_taupe.jpg"
+        },
+        {
+            "name": "Chems Omari",
+            "type": "Attrape coeur",
+            "git_url": "https://github.com/ModelingSolver/angydoss",
+            "site_url": "https://angydoss-dvp8.vercel.app/",
+            "gif_path": "assets/medias/chems_attrape_coeur.gif",
+            "img_path": "assets/medias/chems_attrape_coeur.jpg"
+        },
+        {
+            "name": "Quentin Derimais",
+            "type": "Space Invader",
+            "git_url": "https://github.com/Quentindrms/space-invader",
+            "site_url": "https://quentindrms.github.io/space-invader/",
+            "gif_path": "assets/medias/quentin_space_invader.gif",
+            "img_path": "assets/medias/quentin_space_invader.jpg"
+        },
+        {
+            "name": "Estelle Haubois",
+            "type": "Mémorie",
+            "git_url": "https://github.com/EstelleSimina/memory-game",
+            "site_url": "https://estellesimina.github.io/memory-game/",
+            "gif_path": "",
+            "img_path": "assets/medias/estelle_memory.jpg"
+        },
+        {
+            "name": "Martin Boizard Martin",
+            "type": "Docteur Maboul",
+            "git_url": "https://github.com/Milao-thafly/Typescript-game.git",
+            "site_url": "https://milao-thafly.github.io/Typescript-game/",
+            "gif_path": "",
+            "img_path": "assets/medias/martin_docteur_maboul.jpg"
+        }
+    ]
+}
